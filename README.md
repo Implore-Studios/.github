@@ -1,1 +1,1 @@
-# .github
+# Fun plugins coming soon!
